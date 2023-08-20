@@ -3,7 +3,7 @@
 <html lang="zxx">
 
 <head>
-    <title>Mystery Code</title>
+    <title> Thaisan Un - Blog</title>
     <!-- Meta tag Keywords -->
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta charset="UTF-8" />
